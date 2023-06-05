@@ -1,0 +1,21 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+
+
+
+body {
+  background-image: url('fondo.jpeg') ;
+  background-repeat:no-repeat ;
+  background-size: 400px 780px;
+}
+
+h1 {
+  color: blue;
+  font-size: white;
+  background: white;
+  width :50%;
+}
+
